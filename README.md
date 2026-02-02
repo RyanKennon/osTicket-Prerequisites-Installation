@@ -2,7 +2,7 @@
   <img width="700" height="200" alt="image" src="https://github.com/user-attachments/assets/daa445be-b28b-4116-8795-886f90dbb7ea" />
 </p>
 
-# osTicket: Prerequisites and Installation
+# osTicket: Prerequisites & Installation
 
 This project focuses on installing, configuring, and deploying the osTicket support ticketing system in a Windows Server environment. I enabled Internet Information Services (IIS), downloaded and installed the necessary PHP dependencies, and configured IIS to work with PHP. I then installed osTicket, applied required extensions, configured folder permissions, and created the backend MySQL database using HeidiSQL. Finally, I completed the browser-based setup and verified that the osTicket application was successfully installed and fully operational.
 
