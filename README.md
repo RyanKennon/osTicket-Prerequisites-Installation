@@ -140,7 +140,7 @@ This project focuses on installing, configuring, and deploying the osTicket supp
 </p>
 
 4. In IIS navigate to the **osTicket** folder select **PHP Manager**
-5. Click **enable or disable extemtions**
+5. Click **enable or disable an extention**
 6. Find these three extensions:
    - **php_imap**
    - **php_intl**
@@ -171,7 +171,7 @@ This project focuses on installing, configuring, and deploying the osTicket supp
   <img width="1111" height="662" alt="Untitled Diagram-Page-28 drawio" src="https://github.com/user-attachments/assets/184deca2-fbb4-459c-a243-b35db85fddd9" />
 </p>
 
-6. Select a **Principle**
+6. Select a **Principal**
 7. Enter **Everyone** and select **Check Names**
 8. Check the box labeled **Full Control** and apply the changes
 
@@ -183,7 +183,7 @@ This project focuses on installing, configuring, and deploying the osTicket supp
 
 ### 7) Install HeidiSQL
 
-1. In the **osTicket Installation Files** folder install and launch **HeidiSQL** then select **New**
+1. In the **osTicket Installation Files** folder install and launch **HeidiSQL**
 
 <p align="center">
   <img width="1124" height="631" alt="Untitled Diagram-Page-30 drawio" src="https://github.com/user-attachments/assets/4793b8d2-e36f-4c56-b5f1-b8f1f874a1a2" />
